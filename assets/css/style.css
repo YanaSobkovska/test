@@ -523,6 +523,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 #hero .hero-container h3 {
+	padding: 0 10px;
 	font-family: "Roboto";
 	font-style: normal;
 	font-weight: 400;
@@ -535,6 +536,14 @@ body.mobile-nav-active #mobile-nav-toggle i {
 #hero .hero-container img {
 	max-width: 90%;
 	padding-bottom: 30px;
+}
+
+#hero .hero-container .btns{
+	display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    row-gap: 15px;
 }
 
 #hero .hero-container .btn-get_started {
