@@ -577,7 +577,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
 	transition: 0.3s;
-	padding-right: 43px;
+	padding: 10px;
 }
 
 #hero .hero-container .btns a:hover {
